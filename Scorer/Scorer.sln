@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Scorer", "Scorer\Scorer.fsproj", "{590FD153-BCFE-465F-8FDE-0B292BC4A352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590FD153-BCFE-465F-8FDE-0B292BC4A352}.Debug|x86.ActiveCfg = Debug|x86
+		{590FD153-BCFE-465F-8FDE-0B292BC4A352}.Debug|x86.Build.0 = Debug|x86
+		{590FD153-BCFE-465F-8FDE-0B292BC4A352}.Release|x86.ActiveCfg = Release|x86
+		{590FD153-BCFE-465F-8FDE-0B292BC4A352}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Scorer\Scorer.fsproj
+	EndGlobalSection
+EndGlobal
